@@ -11,6 +11,8 @@ ou abrir com a extensão Live Server
 
 # Resultado
 
+Comparando duas velocidades:
+
 <span>
-     <img src="">     
+     <img src="https://user-images.githubusercontent.com/85804895/148614921-c2304ac1-7a7e-42f8-8398-c8ee720fff50.gif", width=900>     
 </span>
